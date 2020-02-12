@@ -1,7 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="42a5f5" />
-    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="isWizardShown" value="true" />
+    <option name="tabsHeight" value="28" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-58dc4364:16ff6520bad:-78d3" />
     <option name="version" value="4.11.5" />
   </component>
