@@ -1,7 +1,4 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
-  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
