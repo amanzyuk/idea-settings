@@ -11,5 +11,6 @@
     <mask>*.ds.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.pom</mask>
   </component>
 </application>
