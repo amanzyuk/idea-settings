@@ -2,6 +2,13 @@
   <component name="CodeInsightSettings">
     <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="references" />
+      </set>
+    </option>
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
