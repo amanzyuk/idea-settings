@@ -5,6 +5,7 @@
         <option value="com.haulmont.jpab" />
         <option value="idea.plugin.protoeditor" />
         <option value="org.dynamodb4idea" />
+        <option value="aws.toolkit" />
       </list>
     </option>
   </component>
