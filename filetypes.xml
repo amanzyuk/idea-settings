@@ -7,6 +7,7 @@
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
       <mapping pattern=".env-cmdrc" type="PLAIN_TEXT" />
+      <mapping ext="bpmn" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="hml" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
